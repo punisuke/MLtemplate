@@ -1,3 +1,3 @@
 # MLtemplate
 
-Template for copettition
+Template for competition
